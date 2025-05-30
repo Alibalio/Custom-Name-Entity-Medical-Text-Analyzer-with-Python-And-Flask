@@ -1,0 +1,19 @@
+MEDICAL CONDITIONS
+
+Influenza is a viral infection that primarily attacks the respiratory system. Symptoms include fever, cough, sore throat, and body aches. The Influenza virus is transmitted via airborne particles. Treatment typically involves antiviral medications, rest, and hydration. Vaccination is a key preventive measure.
+
+Tuberculosis (TB) is a serious infectious disease that mainly affects the lungs. Symptoms include a persistent cough lasting three weeks or more, weight loss, and night sweats. The causative agent is Mycobacterium tuberculosis, transmitted through the air. Treatment involves a regimen of antibiotics, and preventive strategies include vaccination and avoiding close contact with infected individuals.
+
+HIV/AIDS is caused by the human immunodeficiency virus (HIV), which attacks the immune system. Symptoms can vary but may include fever, fatigue, and swollen lymph nodes. The virus is transmitted through blood, sexual contact, and from mother to child. Antiretroviral therapy (ART) is the primary treatment, and preventive measures include safe sex practices and pre-exposure prophylaxis (PrEP).
+
+Malaria is caused by parasites transmitted through the bites of infected female Anopheles mosquitoes. Symptoms include fever, chills, and flu-like illness. The primary pathogens are Plasmodium falciparum and Plasmodium vivax. Treatment typically involves antimalarial medications, and preventive measures include insecticide-treated bed nets and indoor spraying.
+
+COVID-19 is caused by the coronavirus SARS-CoV-2. Symptoms can range from mild to severe, including fever, cough, and shortness of breath. The virus spreads primarily through respiratory droplets. Treatment varies based on severity and may include antiviral medication
+
+Chronic Kidney Disease (CKD) is a gradual loss of kidney function over time. Symptoms may include fatigue, swelling in the legs and ankles, and changes in urination. Common causes include diabetes and hypertension. Treatment focuses on managing underlying conditions, dietary changes, and in advanced cases, dialysis or kidney transplantation.
+
+Psoriasis is a chronic autoimmune condition that causes rapid skin cell production, leading to thick, red, scaly patches on the skin. Symptoms can include itching and discomfort. While there is no cure, treatment options include topical treatments, phototherapy, and systemic medications to reduce inflammation and slow down skin cell turnover.
+
+Osteoporosis is a condition characterized by weak and brittle bones, increasing the risk of fractures. It often develops without symptoms until a fracture occurs. Risk factors include aging, hormonal changes, and certain medications. Treatment may involve medications to strengthen bones, dietary changes to increase calcium and vitamin D intake, and weight-bearing exercises.
+
+Anemia is a condition in which the body lacks enough healthy red blood cells to carry adequate oxygen to tissues. Symptoms can include fatigue, weakness, and pale skin. Causes of anemia can vary, including iron deficiency, chronic diseases, and vitamin deficiencies. Treatment depends on the underlying cause and may include dietary changes, supplements, or medications.
